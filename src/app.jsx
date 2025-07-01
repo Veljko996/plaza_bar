@@ -5,7 +5,7 @@ import Hero from "./components/Hero";
 
 gsap.registerPlugin(ScrollTrigger, SplitText);
 
-export const App = () => {
+const App = () => {
   return (
     <main>
       <Navbar />
@@ -13,3 +13,5 @@ export const App = () => {
     </main>
   );
 };
+
+export default App;
