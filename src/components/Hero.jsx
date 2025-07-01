@@ -92,7 +92,7 @@ const Hero = () => {
             </div>
             <div className="view-cocktails">
               <p className="subtitle">
-                Every drink at Plaza bar is a toast to summer — chill
+                Every drink at Plaza Bar is a toast to summer — chill
                 afternoons, music in the air and golden sunsets melting into the
                 lake Palic.
               </p>
