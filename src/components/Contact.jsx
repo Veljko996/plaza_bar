@@ -95,6 +95,9 @@ const Contact = () => {
             ))}
           </div>
         </div>
+        <footer class="text-center text-sm text-gray-500 py-4">
+          &copy; 2025 VeljkoStojadinovic
+        </footer>
       </div>
     </footer>
   );
