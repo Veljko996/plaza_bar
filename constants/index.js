@@ -1,4 +1,7 @@
 const navLinks = [
+   {
+      id: "hero"
+   },
     {
        id: "cocktails",
        title: "Cocktails",
@@ -71,20 +74,20 @@ const navLinks = [
     },
    ];
    
-   const profileLists = [
-    {
-       imgPath: "/images/profile1.png",
-    },
-    {
-       imgPath: "/images/profile2.png",
-    },
-    {
-       imgPath: "/images/profile3.png",
-    },
-    {
-       imgPath: "/images/profile4.png",
-    },
-   ];
+   // const profileLists = [
+   //  {
+   //     imgPath: "/images/profile1.png",
+   //  },
+   //  {
+   //     imgPath: "/images/profile2.png",
+   //  },
+   //  {
+   //     imgPath: "/images/profile3.png",
+   //  },
+   //  {
+   //     imgPath: "/images/profile4.png",
+   //  },
+   // ];
    
    const featureLists = [
     "Perfectly balanced blends",
@@ -209,7 +212,7 @@ const navLinks = [
     navLinks,
     cocktailLists,
     mockTailLists,
-    profileLists,
+   //  profileLists,
     featureLists,
     goodLists,
     openingHours,
